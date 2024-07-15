@@ -1,7 +1,5 @@
 # Firestore Setup with Terraform
 
-![Firestore]
-
 ## Overview
 This guide provides a detailed step-by-step process for setting up a Firestore database in GCP using Terraform.
 
